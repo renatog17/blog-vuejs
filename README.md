@@ -2,21 +2,16 @@
 
 ![Blog Image](https://github.com/renatog17/blog-vuejs/blob/main/readme/blog.png))
 
-Bem-vindo ao Blog Interativo! Este projeto foi desenvolvido para oferecer uma experiência única de leitura e interação. Abaixo, destacamos as principais características e funcionalidades:
 
 ## Visão Geral
 
-O Blog Interativo é uma plataforma online que visa proporcionar uma experiência de leitura envolvente e acessível. Com um design moderno e intuitivo, os usuários podem explorar uma variedade de postagens informativas e cativantes.
 
 ## Visualização Ampliada
 
-Ao clicar nas postagens, os leitores têm a oportunidade de mergulhar em uma visualização mais ampla e aprofundada do conteúdo. Isso permite uma leitura mais confortável e a apreciação de elementos visuais, sejam eles imagens, gráficos ou vídeos.
 
 ![Visualização Ampliada](https://github.com/renatog17/blog-vuejs/blob/main/readme/post.png)
 
 ## Filtragem por Categorias
-
-No Blog Interativo, a organização é fundamental. Os usuários podem filtrar as postagens com facilidade, explorando conteúdos específicos de seu interesse. O menu de categorias proporciona uma navegação eficiente e direcionada.
 
 ![Menu de Categorias](https://github.com/renatog17/blog-vuejs/blob/main/readme/tags.png)
 
